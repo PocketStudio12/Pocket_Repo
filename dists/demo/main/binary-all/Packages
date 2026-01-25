@@ -1,0 +1,38 @@
+Package: pkiller
+Version: 1.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: git, python, asciibanner, apkeditor, apksigner
+Section: utils
+Priority: optional
+Homepage: https://github.com/Anon4You/PKiller
+Description: Automated PairIP License Removal Tool for Android APKs
+ PKiller is an automated tool designed to remove PairIP license
+ protection from Android APK files. Streamlines the process of
+ bypassing PairIP security for security research and analysis.
+Filename: dists/demo/maim/binary-all/pkiller.deb
+Size: 1376
+MD5Sum: 2c1b4ccdece3671e0060b594affc886f
+SHA1: 301b5e6fb3770cc10edbdad807f5024609663e68
+SHA256: 5af060a642c8147ad88b7984a7d55bf822a424588911a04ad3d11bffd20043c8
+SHA512: 6beb438159788d004c812f0c44705d08d118e3b352b8a914b5fa7cd9be0060150c036f3ed5e31c86b67bf0d4c584bf5bdba8c39899cb555a398113d6709299b0
+
+Package: termux-ai
+Version: 3.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: curl, gum, tgpt
+Section: ai
+Priority: optional
+Homepage: https://github.com/Anon4You/Termux-Ai
+Description: Interactive AI Assistant for Termux
+ Your AI companion in Termux with support for 10+ AI providers,
+ 50+ image generation models, and interactive command-line interface.
+ Provides comprehensive AI capabilities directly within Termux terminal.
+Filename: dists/demo/maim/binary-all/termux-ai.deb
+Size: 6280
+MD5Sum: b346dc3845bce7666cae2dcf074a1286
+SHA1: 3b2024cd26a35600b3701596134a97f283dd90d0
+SHA256: 0fa9d39400786c6d0c7e05bd575c3a6b91c921109f9028d77aa41b28d0369789
+SHA512: cd386771d21e4c44c2d8a9e2f6ec8a0026e44ef7f7f237eae115b0c0e5be98ec897b8de3c34feefcfe4b8df18eb71c0e0e63b7265fe2c6c47da303885569df9f
+
