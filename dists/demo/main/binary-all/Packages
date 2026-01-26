@@ -1,3 +1,15 @@
+Package: l3mon
+Version: 1.0
+Architecture: all
+Maintainer: Pocket Studio
+Description: L3MON tool for Termux
+Filename: dists/demo/main/binary-all/L3MON-deb.deb
+Size: 23020028
+MD5Sum: 9a09cb360fc3983921dda6dfd78ef4b8
+SHA1: 8842e4345b4de9220504c48911b9ebfcb0ad03b7
+SHA256: acd9e8fe98af4ec40a55263217879f34fcb07ce3574058a2c7c7ec6320c0942f
+SHA512: 6f944264074c379d1b35c4700498e111c6ffa370d1ad07aaef7a96726fc9d5d3b7ad50f54a5633d9849ce10a7edf15a7f52aa94bd95e19654042017acb8bc1eb
+
 Package: pkiller
 Version: 1.0
 Architecture: all
