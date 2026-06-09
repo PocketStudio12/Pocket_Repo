@@ -1,0 +1,8 @@
+#input os
+#input binary for binary
+
+func main(){
+ var b = binary.binary(code(8));
+ os.print(b:"00010001");
+ return 0;
+}

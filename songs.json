@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1780560528097,
+    "name": "Sahiba",
+    "singer": "Aditya Rikhari",
+    "category": "Punjabi",
+    "image": "http://localhost:3000/uploads/images/1780560527823-1774614532461-29016_4.webp",
+    "music": "http://localhost:3000/uploads/songs/1780560527893-1774614532520-Sahiba.mp3"
+  },
+  {
+    "id": 1780571425170,
+    "name": "Coffee Houser Sei Addata",
+    "singer": "",
+    "category": "Bengali",
+    "image": "http://localhost:3000/uploads/images/1780571424622-1775973951067-hridayer-gaan-manna-dey-manna-dey.webp",
+    "music": "http://localhost:3000/uploads/songs/1780571424634-1775973951139-Coffee Houser Sei Addata.mp3"
+  },
+  {
+    "id": 1780571496285,
+    "name": "Aaj Ki Raat",
+    "singer": "Steam 2",
+    "category": "Hindi",
+    "image": "http://localhost:3000/uploads/images/1780571496099-1774621950628-aaj-ki-raat-stree-2-500-500.jpg",
+    "music": "http://localhost:3000/uploads/songs/1780571496111-1774621950638-Aaj Ki Raat Stree 2 128 Kbps.mp3"
+  },
+  {
+    "id": 1780579105688,
+    "name": "Paro",
+    "singer": "Aditya Rikhari",
+    "category": "Hindi",
+    "image": "http://localhost:3000/uploads/images/1780579105527-1776068906481-thumb_68e0ba2fabd14.webp",
+    "music": "http://localhost:3000/uploads/songs/1780579105582-1776068906490-Paro.mp3"
+  },
+  {
+    "id": 1780579177788,
+    "name": "Gehra Hua",
+    "singer": "",
+    "category": "Hindi",
+    "image": "http://localhost:3000/uploads/images/1780579177226-1775973672350-gehra-hua-from-dhurandhar--cover-image.webp",
+    "music": "http://localhost:3000/uploads/songs/1780579177227-1775973672353-Gehra Hua.mp3"
+  },
+  {
+    "id": 1780579600271,
+    "name": "Hari Om Hari Om",
+    "singer": "",
+    "category": "Hindi",
+    "image": "http://localhost:3000/uploads/images/1780579599896-1775973415388-karzzzz-cover-image.webp",
+    "music": "http://localhost:3000/uploads/songs/1780579599902-1775973415394-Hari Om Hari Om.mp3"
+  },
+  {
+    "id": 1780667251525,
+    "name": "Tum Hi Ho",
+    "singer": "Arijit Singh",
+    "category": "Hindi",
+    "image": "http://localhost:3000/uploads/images/1780667251026-arijit-romantic-hits-cover-image.webp",
+    "music": "http://localhost:3000/uploads/songs/1780667251095-Tum Hi Ho (From Aashiqui 2).mp3"
+  },
+  {
+    "id": 1780667981476,
+    "name": "Paaro",
+    "singer": "Aditya Rikhari",
+    "category": "Hindi",
+    "image": "http://localhost:3000/uploads/images/1780667981211-11806_4.jpeg",
+    "music": "http://localhost:3000/uploads/songs/1780667981213-Paaro.mp3"
+  }
+]
