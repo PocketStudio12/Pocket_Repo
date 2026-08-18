@@ -1,4 +1,4 @@
 {
-  "version_old": [0.8, 0.9],
-  "version_latest": 1.0
+  "version_old": ["0.8", "0.9"],
+  "version_latest": "1.0"
 }
